@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
   s.name              = "StatefulViewController-DominicMDev"
-  s.version           = "1.0.0"
+  s.module_name       = "StatefulViewController"
+  s.version           = "1.0.1"
   s.summary           = "Placeholder views based on content, loading, error or empty states"
   s.description       = "A view controller subclass that presents placeholder views based on content, loading, error or empty states."
   s.homepage          = "https://github.com/DominicMDev/StatefulViewController-DominicMDev"
