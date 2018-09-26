@@ -1,8 +1,7 @@
 # StatefulViewController
 
 [![Build Status](https://travis-ci.org/DominicMDev/StatefulViewController-DominicMDev.svg)](https://travis-ci.org/DominicMDev/StatefulViewController-DominicMDev)
-![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
-![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg)
+![Swift 4.2](https://img.shields.io/badge/Swift-4.2-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20tvOS-lightgrey.svg)
 
 A protocol to enable `UIViewController`s or `UIView`s to present placeholder views based on content, loading, error or empty states.
@@ -30,11 +29,13 @@ Current Swift compatibility breakdown:
 
 | Swift Version | Framework Version |
 | ------------- | ----------------- |
+| 4.2           | 1.1.x             |
+| 4.0           | 1.0.x             |
 | 3.0           | 3.x               |
 | 2.3           | 2.x               |
 | 2.2           | 1.x               |
 
-[all releases]: https://github.com/aschuch/StatefulViewController/releases
+[all releases]: https://github.com/DominicMDev/StatefulViewController-DominicMDev/releases
 
 ## Usage
 
